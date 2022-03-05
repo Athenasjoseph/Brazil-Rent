@@ -1,0 +1,1 @@
+SELECT  max(price) as max_price FROM `properati-data-public.properties_br.properties_rent_201502`
